@@ -329,7 +329,7 @@ def f_delta_scale_xyz(self, context):
 	
 	
 coords = [
-	('0', 'Joint Translation', 'Translated, joint coordinates for each axis'),
+	('0', 'Common Translation', 'Translated, common coordinates for each axis'),
 	('1', 'Translation', 'Translated, separate coordinates for each axis'),
 	('2', 'Stagnation', 'Same coordinates as input object\'s')
 ]
