@@ -1,6 +1,3 @@
-#		TODO			text in center of operator 'button'
-#		TODO			refresh delta_scale_xyz value in Transform panel [class ClearScl] [class ApplyScl]
-#		TODO			hide custom made properties in Scene and Object properties panel
 bl_info = {
 	'name': 'Analyse DICOM 3D Model',
 	'author': 'Jakub Bełcik',
